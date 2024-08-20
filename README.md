@@ -78,4 +78,8 @@
   -Interstitial</br>
   -Rewarded</br>
 </br></br>
+</br></br>
+</br></br>
+# نکات مهم
+</br>
 
