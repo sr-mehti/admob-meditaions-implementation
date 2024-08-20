@@ -30,7 +30,7 @@
   -OpenApp</br>
   -Native</br>
 </br></br>
-# 6-LiftOff</br>
+# 6-LiftOff (Vungle)</br>
   -Banner</br>
   -Interstitial</br>
   -Rewarded</br>
@@ -45,7 +45,7 @@
   -Rewarded Interstitial</br>
   -Native</br>
 </br></br>
-# 8-DT Exchange</br>
+# 8-Fyber</br>
   -Banner</br>
   -Interstitial</br>
   -Rewarded</br>
