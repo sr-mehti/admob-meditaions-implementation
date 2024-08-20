@@ -1,7 +1,7 @@
 # admob-meditaions-implementation
-لیست مدیشن های پیاده شده به همراه ادیونیت های ساپورت شده:
-1-IronSource
-  -Banner
-  -Interstitial
-  -Rewarded
-  -Rewarded Interstitial
+
+# 1-IronSource</br>
+  -Banner</br>
+  -Interstitial</br>
+  -Rewarded</br>
+  -Rewarded Interstitial</br>
