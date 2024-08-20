@@ -45,3 +45,37 @@
   -Rewarded Interstitial</br>
   -Native</br>
 </br></br>
+# 8-DT Exchange</br>
+  -Banner</br>
+  -Interstitial</br>
+  -Rewarded</br>
+</br></br>
+# 9-DT Exchange</br>
+  -Banner</br>
+  -Interstitial</br>
+  -Rewarded</br>
+</br></br>
+# 10-InMobi</br>
+  -Banner</br>
+  -Interstitial</br>
+  -Rewarded</br>
+  -Native</br>
+</br></br>
+# 11-Line</br>
+  -Banner</br>
+  -Interstitial</br>
+  -Rewarded</br>
+  -Native</br>
+</br></br>
+# 12-MyTarget</br>
+  -Banner</br>
+  -Interstitial</br>
+  -Rewarded</br>
+  -Native</br>
+</br></br>
+# 13-AppLovin</br>
+  -Banner</br>
+  -Interstitial</br>
+  -Rewarded</br>
+</br></br>
+
