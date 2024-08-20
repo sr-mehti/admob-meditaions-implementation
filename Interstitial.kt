@@ -86,3 +86,14 @@ private fun loadInterstitial() {
             }
         })                
 }
+
+public override fun onResume() {
+    super.onResume()
+    IronSource.onResume(this)
+}
+
+public override fun onPause() {
+    super.onPause()
+    IronSource.onPause(this)
+}
+
